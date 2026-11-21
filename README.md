@@ -1,148 +1,57 @@
 <div align="center">
-
-# Hi, I'm Sabith S B
-
-### Software Developer | Applied AI · Voice AI · Backend Engineering
-
-I build intelligent applications, conversational voice systems, and dependable backend services that turn emerging technology into practical products.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4b11/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4b11)
-![Location](https://img.shields.io/badge/India-Open%20to%20Global%20Opportunities-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
-
+  <img src="./assets/sabith.webp" width="112" height="175" alt="Illustrated portrait of Sabith S B" />
 </div>
 
----
+<h1 align="center">Sabith S B</h1>
 
-## <img src="https://api.iconify.design/mdi/account-circle.svg?color=%230A66C2" width="28" alt="Profile icon" /> About Me
+<p align="center"><strong>Backend systems · Voice AI · Workflow automation</strong></p>
 
-- Software Developer at **IoTides Pvt Ltd**, working on AI-integrated applications and automated workflows.
-- Focused on **LLM applications, RAG, AI agents, prompt engineering, and production guardrails**.
-- Building **Voice AI and IVR systems** using real-time LLM, Speech-to-Text, Text-to-Speech, and Speech-to-Speech workflows.
-- Developing backend services and microservices with **Python, Rust, FastAPI, Flask, and ASP.NET Core**.
-- Experienced with **Docker, AWS, GCP, Linux, PostgreSQL, MongoDB, Redis, and REST APIs**.
-- Curious by nature - I enjoy reverse engineering existing systems, understanding their business logic, and rebuilding them with modern technology.
-- Open to meaningful collaborations, freelance projects, and opportunities in **Applied AI, Voice AI, and backend engineering**.
+<p align="center">
+  Software Developer at IoTides · Kollam, Kerala, India
+</p>
 
-## <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23FF6F00" width="28" alt="Rocket icon" /> What I'm Working On
+<p align="center">
+  <strong><a href="https://sabithsb.in/">Portfolio</a></strong> &nbsp;·&nbsp;
+  <strong><a href="https://assistant.sabiii.workers.dev/">Talk to my AI assistant</a></strong> &nbsp;·&nbsp;
+  <strong><a href="https://www.linkedin.com/in/s4b11/">LinkedIn</a></strong>
+</p>
 
-### AI Interview Platform & ATS
+I build services in **Python** and **Rust**, from the APIs and data models underneath to the voice agents and web interfaces people use.
 
-Building an intelligent hiring workflow covering resume and job-description parsing, structured candidate evaluation, automated report generation, interview orchestration, scalability, and cheating-detection concepts.
+## In production
 
-### Conversational Voice AI
+> **~7 s → ~3 s median reply latency** on a production voice interview agent.
 
-Developing real-time AI calling and IVR workflows that combine LLM reasoning with STT, TTS, and S2S technologies to create natural and reliable voice interactions.
+At IoTides, I work on real-time voice-agent R&D for an [AI interview platform and ATS](https://sabithsb.in/projects/ai-interview/). I instrumented each stage of a conversation turn to find the bottlenecks and helped improve reply latency, conversation quality, and session reliability. I also work on IVR, retrieval, tool calling, and evaluation for applications powered by language models.
 
-### LLM-Powered Analytics
+## Open-source work
 
-Exploring natural-language interfaces that transform scattered operational data into clear, decision-ready insights through conversational dashboards.
+| Project | What I built |
+| --- | --- |
+| [**Personal AI Agent**](https://github.com/s4b11/livekit-ivr) | One LiveKit and Gemini Live agent across a SIP phone line, a React voice app, and the widget on my portfolio. It answers questions about my work and takes messages. [Try the voice app](https://assistant.sabiii.workers.dev/) |
+| [**OKFBench Chat**](https://github.com/s4b11/okfbench) | A FastAPI app that compares linked concept pages in Open Knowledge Format (OKF), BM25 keyword search, and hybrid retrieval. Each run shows its sources, citations, timing, and token usage. [Try the demo](https://okfbench-chat.onrender.com/) |
+| [**Utility**](https://github.com/s4b11/utility) | A private workspace with tasks, notes, a calendar, and an encrypted wallet. Its AI assistant asks for approval before changing data. One Rust WebAssembly component serves the API and React app, which also ships to Android via Tauri. [Read the case study](https://sabithsb.in/projects/utility/) |
 
-### Scalable Backend Systems
+## Toolkit
 
-Designing maintainable APIs and services with attention to data flow, system reliability, security, performance, and long-term technical health.
+| Area | What I use |
+| --- | --- |
+| **Backend and data** | Python, Rust, FastAPI, Flask, ASP.NET Core, PostgreSQL, SQLite, Redis, Kafka |
+| **Voice and real-time** | LiveKit Agents, Gemini Live, SIP, WebRTC, Deepgram, Cartesia, Sarvam, AssemblyAI |
+| **Agents and retrieval** | RAG, OKF, BM25 and hybrid retrieval, MCP, prompt engineering, OpenAI, Groq, guardrails and evaluations |
+| **Interfaces and delivery** | React, Dioxus, WebAssembly, Tauri, Docker, Cloudflare Workers and Pages, GitHub Actions |
 
-## <img src="https://api.iconify.design/mdi/tools.svg?color=%237B1FA2" width="28" alt="Tools icon" /> Technical Toolbox
+## Experience and education
 
-### Languages
+- **VCNR Technologies · Software Developer Intern (.NET).** Built the ASP.NET Core backend for the Masters module of a [warehouse management system](https://sabithsb.in/projects/wms/) and mapped the Inward, Warehouse, and Outward workflows.
+- **BCA · UIT Kottarakkara, University of Kerala.** College topper, 22nd university rank, and 8.25/10 CGPA. Served as an NSS student leader from 2023 to 2025 and co-built [Infant Guard](https://sabithsb.in/projects/infant-guard/), a newborn-care prototype.
+- Our team's idea was selected through Kerala's **Young Innovators Programme (YIP)**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+## Writing
 
-### Backend & APIs
+- [How does the way we organize knowledge change an AI answer?](https://lnkd.in/p/dUuaqhpx)
+- [I got tired of switching apps, so I built my own.](https://lnkd.in/p/dYVYyrnk)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Rocket](https://img.shields.io/badge/Rocket-Rust-000000?style=flat-square&logo=rocket&logoColor=white)
-![Dioxus](https://img.shields.io/badge/Dioxus-Rust_UI-00A8E8?style=flat-square&logo=rust&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-6DB33F?style=flat-square&logo=buffer&logoColor=white)
+## Work with me
 
-### AI & Voice Technologies
-
-![LLM Applications](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Vector_Retrieval-8A2BE2?style=flat-square&logo=semanticweb&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-Orchestration-FF6F00?style=flat-square&logo=probot&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Guardrails-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Voice AI](https://img.shields.io/badge/Voice_AI-STT_·_TTS_·_S2S-0078D4?style=flat-square&logo=soundcharts&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-Realtime-111111?style=flat-square&logo=webrtc&logoColor=white)
-
-### Databases, Cloud & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## <img src="https://api.iconify.design/mdi/briefcase.svg?color=%2300897B" width="28" alt="Briefcase icon" /> Experience Snapshot
-
-### Software Developer - IoTides Pvt Ltd
-
-- Architecting AI-integrated solutions and automated workflows using Python and Rust.
-- Working on AI agents, system prompts, guardrails, RAG workflows, and production-focused LLM applications.
-- Developing conversational Voice AI and IVR solutions using real-time LLM, STT, TTS, and S2S pipelines.
-- Building APIs, microservices, data-processing workflows, and analytics systems for practical business use cases.
-
-### Software Development Intern - VCNR
-
-- Contributed to a Warehouse Management System across the **Masters, Inward, Warehouse, and Outward** modules.
-- Reverse engineered the existing application to understand its architecture, workflows, dependencies, and business rules.
-- Supported migration from a legacy **MySQL-based system** to a modern stack using **ASP.NET Core and PostgreSQL**.
-- Developed a practical understanding of WMS concepts, inventory movement, warehouse operations, and end-to-end process flow.
-
-## <img src="https://api.iconify.design/mdi/source-repository.svg?color=%230969DA" width="28" alt="Repository icon" /> Featured Projects
-
-| Project | What It Demonstrates | Core Technologies |
-|---|---|---|
-| [LiveKit IVR](https://github.com/s4b11/livekit-ivr) | A foundation for real-time voice and IVR experimentation, connecting conversational flows with modern audio infrastructure. | Python · LiveKit · Voice AI |
-
-> **Note:** Some professional projects involve private or proprietary systems. Public repositories here showcase selected personal work and technical experiments.
-
-## <img src="https://api.iconify.design/mdi/school.svg?color=%23D81B60" width="28" alt="Education icon" /> Education, Leadership & Recognition
-
-- **College Topper** - Bachelor of Computer Applications (Computer Science).
-- **22nd Rank** - University of Kerala.
-- Graduated with a **CGPA of 8.25/10**.
-- Served as an **NSS Student Leader for two years**, coordinating activities and supporting student participation.
-- Part of a team whose idea was selected through the **Young Innovators Programme (YIP), Kerala**.
-
-## <img src="https://api.iconify.design/mdi/chart-box.svg?color=%233949AB" width="28" alt="Analytics icon" /> GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s4b11&theme=github" alt="Sabith's GitHub contribution overview" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s4b11&theme=github" alt="Sabith's GitHub statistics" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4b11&theme=github" alt="Sabith's repository languages" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=s4b11&theme=transparent&hide_border=true" alt="Sabith's GitHub contribution streak" />
-
-</div>
-
-## <img src="https://api.iconify.design/mdi/handshake.svg?color=%23F57C00" width="28" alt="Handshake icon" /> Let's Connect
-
-I enjoy discussing practical AI adoption, conversational systems, backend architecture, and ideas that can grow into useful products. If you are building in any of these areas - or simply want to exchange ideas - feel free to connect.
-
-- [LinkedIn](https://www.linkedin.com/in/s4b11/) - Professional experience, achievements, and updates.
-- [GitHub](https://github.com/s4b11) - Public repositories and technical experiments.
-- Based in India and open to global opportunities and collaborations.
-
-<div align="center">
-
-### Build thoughtfully. Learn continuously. Ship what matters.
-
-</div>
+I take on selected freelance projects in backend design, voice AI, and workflow automation alongside my full-time role. [Email me](mailto:saabith.sb@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/s4b11/).
