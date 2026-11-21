@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="28" viewBox="0 0 118 28">
+  <style>
+    svg { color: #7156ca; }
+    .badge { fill: #f7f5ff; stroke: #e4def5; }
+    text { fill: #332556; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #bdabff; }
+      .badge { fill: #211934; stroke: #473662; }
+      text { fill: #eee8ff; }
+    }
+  </style>
+  <rect class="badge" x=".5" y=".5" width="117" height="27" rx="9" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" x="8" y="6" width="16" height="16"><rect x="9" y="3" width="6" height="11" rx="3" /><path d="M5 11a7 7 0 0 0 14 0M12 18v3" /></svg>
+  <text x="30" y="18.5" font-family="system-ui, sans-serif" font-size="13">AssemblyAI</text>
+</svg>

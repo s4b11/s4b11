@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="28" viewBox="0 0 88 28">
+  <style>
+    svg { color: #7156ca; }
+    .badge { fill: #f7f5ff; stroke: #e4def5; }
+    text { fill: #332556; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #bdabff; }
+      .badge { fill: #211934; stroke: #473662; }
+      text { fill: #eee8ff; }
+    }
+  </style>
+  <rect class="badge" x=".5" y=".5" width="87" height="27" rx="9" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" x="8" y="6" width="16" height="16"><path d="M17.3041 3.541h-3.6718l6.696 16.918H24Zm-10.6082 0L0 20.459h3.7442l1.3693-3.5527h7.0052l1.3693 3.5528h3.7442L10.5363 3.5409Zm-.3712 10.2232 2.2914-5.9456 2.2914 5.9456Z" /></svg>
+  <text x="30" y="18.5" font-family="system-ui, sans-serif" font-size="13">Claude</text>
+</svg>

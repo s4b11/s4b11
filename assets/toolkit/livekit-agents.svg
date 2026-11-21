@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="28" viewBox="0 0 136 28">
+  <style>
+    svg { color: #7156ca; }
+    .badge { fill: #f7f5ff; stroke: #e4def5; }
+    text { fill: #332556; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #bdabff; }
+      .badge { fill: #211934; stroke: #473662; }
+      text { fill: #eee8ff; }
+    }
+  </style>
+  <rect class="badge" x=".5" y=".5" width="135" height="27" rx="9" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" x="8" y="6" width="16" height="16"><path d="M0 0v24h14.4v-4.799h4.8V24H24v-4.8h-4.799v-4.8h-4.8v4.8H4.8V0H0zm14.4 14.4V9.602h4.801V4.8H24V0h-4.8v4.8h-4.8v4.8H9.6v4.8h4.8z" /></svg>
+  <text x="30" y="18.5" font-family="system-ui, sans-serif" font-size="13">LiveKit Agents</text>
+</svg>

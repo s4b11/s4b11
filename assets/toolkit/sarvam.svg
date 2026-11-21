@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="28" viewBox="0 0 93 28">
+  <style>
+    svg { color: #7156ca; }
+    .badge { fill: #f7f5ff; stroke: #e4def5; }
+    text { fill: #332556; }
+    @media (prefers-color-scheme: dark) {
+      svg { color: #bdabff; }
+      .badge { fill: #211934; stroke: #473662; }
+      text { fill: #eee8ff; }
+    }
+  </style>
+  <rect class="badge" x=".5" y=".5" width="92" height="27" rx="9" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" x="8" y="6" width="16" height="16"><path d="M2 12h2M6 8v8M10 5v14M14 8v8M18 10v4M22 12h0" /></svg>
+  <text x="30" y="18.5" font-family="system-ui, sans-serif" font-size="13">Sarvam</text>
+</svg>
